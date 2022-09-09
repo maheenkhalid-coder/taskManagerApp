@@ -165,8 +165,8 @@ class App extends Component {
             onSave={this.handleSubmit}
           />
         ) : null}
-        <footer className="my-3 mb-2 bg-info text-white text-center">
-          Copyright 2022 &Copy; All Rights Reserved
+        <footer className="my-5 mb-2 bg-info text-white text-center">
+          Copyright 2022 @ All Rights Reserved
         </footer>
       </main>
     );
